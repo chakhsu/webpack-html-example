@@ -1,0 +1,28 @@
+{
+  "name": "webpack-html-example",
+  "version": "1.0.0",
+  "description": "a html dev env with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chakhsu/webpack-html-example.git"
+  },
+  "keywords": [
+    "html",
+    "webpack",
+    "example"
+  ],
+  "author": "Chakhsu Lau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chakhsu/webpack-html-example/issues"
+  },
+  "homepage": "https://github.com/chakhsu/webpack-html-example#readme",
+  "peerDependencies": {
+    "node-sass": "^4.0.0",
+    "webpack": "^2.0.0"
+  },
+}
